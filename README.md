@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🧑‍💻 I'm Chandan Kumar — Frontend Developer
