@@ -32,16 +32,19 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Dev-Chandan404">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Chandan404&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Dev-Chandan404's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Chandan404&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Dev-Chandan404's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Dev-Chandan404&theme=radical&hide_border=true&cache_seconds=86400" alt="Dev-Chandan404's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Dev-Chandan404&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Dev-Chandan404's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Dev-Chandan404&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Chandan Kumar's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Dev-Chandan404&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Chandan Kumar's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Chandan404&theme=radical&radius=10" alt="Dev-Chandan404's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Chandan404&theme=highcontrast&radius=10" alt="Dev-Chandan404's Activity Graph" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -72,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/Dev-Chandan404">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Chandan404&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dev-Chandan404&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -97,8 +100,6 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/chandan404" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Bottom Line" width="100%" />
