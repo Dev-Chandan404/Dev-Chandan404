@@ -31,13 +31,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Dev-Chandan404">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dev-Chandan404&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Dev-Chandan404's GitHub Stats" />
+  <a href="https://github.com/dev-chandan404">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-chandan404&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="dev-chandan404's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Dev-Chandan404&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Dev-Chandan404's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=dev-chandan404&theme=monokai&hide_border=true&cache_seconds=86400" alt="dev-chandan404's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Dev-Chandan404&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Chandan Kumar's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=dev-chandan404&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Chandan404&theme=highcontrast&radius=10" alt="Dev-Chandan404's Activity Graph" />
